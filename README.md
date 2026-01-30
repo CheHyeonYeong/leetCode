@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/CheHyeonYeong/leetCode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/CheHyeonYeong/leetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CheHyeonYeong/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/CheHyeonYeong/leetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
