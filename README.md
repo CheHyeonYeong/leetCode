@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/CheHyeonYeong/leetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CheHyeonYeong/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
