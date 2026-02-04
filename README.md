@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/CheHyeonYeong/leetCode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/CheHyeonYeong/leetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CheHyeonYeong/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Hash Table
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/CheHyeonYeong/leetCode/tree/master/0198-house-robber) |
 ## Tree
 |  |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
