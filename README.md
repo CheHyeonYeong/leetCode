@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CheHyeonYeong/leetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/CheHyeonYeong/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/CheHyeonYeong/leetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/CheHyeonYeong/leetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/CheHyeonYeong/leetCode/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/CheHyeonYeong/leetCode/tree/master/0819-most-common-word) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/CheHyeonYeong/leetCode/tree/master/0819-most-common-word) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/CheHyeonYeong/leetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
