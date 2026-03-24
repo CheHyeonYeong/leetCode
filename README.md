@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CheHyeonYeong/leetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/CheHyeonYeong/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/CheHyeonYeong/leetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0344-reverse-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/CheHyeonYeong/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
