@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/CheHyeonYeong/leetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CheHyeonYeong/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/CheHyeonYeong/leetCode/tree/master/0198-house-robber) |
+| [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/CheHyeonYeong/leetCode/tree/master/0605-can-place-flowers) |
 | [0819-most-common-word](https://github.com/CheHyeonYeong/leetCode/tree/master/0819-most-common-word) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CheHyeonYeong/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CheHyeonYeong/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/CheHyeonYeong/leetCode/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CheHyeonYeong/leetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/CheHyeonYeong/leetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0819-most-common-word](https://github.com/CheHyeonYeong/leetCode/tree/master/0819-most-common-word) |
 ## Dynamic Programming
 |  |
@@ -89,8 +92,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/CheHyeonYeong/leetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CheHyeonYeong/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
