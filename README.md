@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/CheHyeonYeong/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CheHyeonYeong/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/CheHyeonYeong/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/CheHyeonYeong/leetCode/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/CheHyeonYeong/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/CheHyeonYeong/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CheHyeonYeong/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/CheHyeonYeong/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/CheHyeonYeong/leetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
